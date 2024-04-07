@@ -1,0 +1,153 @@
+*{
+margin: 0%;
+padding: 0%;
+}
+
+body{
+background-color:
+white;
+}
+
+.container{
+max-width: 1000px;
+background-color:lightblue;
+margin: 0 auto;
+padding: 30px;
+
+} 
+    
+header{
+
+
+
+}
+
+.profile{
+height: 100;
+width: 120px;
+border: 4px solid whitesmoke;
+border-radius: 48%;
+float: left;
+}
+
+.header-bio{
+float: left;
+padding: 30px;
+    
+ }
+
+ h1,h2,h3,h4,h5,h6{
+
+
+ }
+
+ .header-contact{
+float: right;
+padding: 30px;
+ }
+
+ .header-contact a {
+text-decoration: none;
+color: black;
+font-weight: bolder;
+ }
+ 
+.header-contact a:hover{
+color: orangered;
+text-decoration: underline;
+    
+}
+.clear-div{
+clear: both;
+
+}
+
+hr{
+border: black 3px solid;
+width: 100%;
+margin: 30px auto;
+border-bottom: none;
+
+}
+
+ #personal-section{
+
+
+
+ }
+
+.content{
+ 
+
+
+}
+.left-div{
+width: 30%;
+float: left;
+
+}
+.right-div{
+width: 70%;
+float:left;
+
+}
+
+.common-hr{
+border: solid black 1px;
+width: 100%;
+border-bottom: none;
+padding: 20px auto;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.bottom-container{
+background-color: black ;
+ text-align: center;
+padding: 10px;
+}
+.bottom-container a {
+
+color: aliceblue;
+text-decoration: none;
+ margin: 20px;
+
+}
+.bottom-container p {
+color: aliceblue;
+ margin-top: 20px;
+
+
+
+}
+
+
+
+.edu-tamplate-left{
+float: left;
+width: 45%;
+}
+
+
+.edu-tamplate-right {
+float: right;
+width: 45%;   
+}
+
+
+
+
+
+
+
